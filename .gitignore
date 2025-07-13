@@ -1,2 +1,6 @@
-catboost_info/
+notebook/catboost_info/
 .venv/
+notebook/mlruns/
+mlruns/
+logs/
+src/__pycache__
